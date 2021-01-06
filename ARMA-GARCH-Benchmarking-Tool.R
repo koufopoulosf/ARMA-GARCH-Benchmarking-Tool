@@ -764,7 +764,7 @@ library(svDialogs)
       dlg_message("I tried to be as fast as possible.... and I think I made it!!")
       dlg_message(c("Total running time of benchmark was", benchmark_running_time,"seconds."))
     } else {
-      dlg_message("Aaallrighhtt!! Your plots and graphs are ready!!")
+      dlg_message("Aaallrighhtt!! Your graphs are ready!!")
     }
   }
   
